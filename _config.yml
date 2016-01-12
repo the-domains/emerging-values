@@ -1,0 +1,28 @@
+name: Emerging Values
+favicon: null
+layout_spectrum: 0.7177228536456823
+typography_spectrum: 0.011167835677042603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.020369768608361483
+  lightness: 0.9541429344099015
+  saturation: 0.8611666392534971
+  rhythmicContrast: 0.24779773922637105
+purpose: []
